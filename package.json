@@ -1,0 +1,14 @@
+{
+  "name": "onlinestore",
+  "version": "1.0.0",
+  "description": "My Online Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damilola Adejobi",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.9.0"
+  }
+}
